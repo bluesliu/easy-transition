@@ -1,6 +1,6 @@
-import Transition from "./Transition";
-import * as Status from "./status";
+import Transition from './Transition'
+import * as Status from './status'
 
-Transition.Status = Status;
+Transition.Status = Status
 
-export default Transition;
+export default Transition
